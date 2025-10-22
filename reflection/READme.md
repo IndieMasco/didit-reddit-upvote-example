@@ -1,0 +1,1 @@
+If I'm completely honest, I felt like this 'assignment' was just rushed. We were all under the assumption that we would have all day (till 10 pm) to get this done, as that's what the timetable said, but we got told we only had till 12, so I got it deployed on Vercel and nothing else.

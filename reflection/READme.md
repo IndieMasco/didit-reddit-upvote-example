@@ -1,0 +1,1 @@
+I feel like there was so much to do in such a short time period. This assignment feels like something we should have been given to do over the weekend. I don't really have much to say about it, to be honest.
